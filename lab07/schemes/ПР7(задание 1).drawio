@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="ohbfCqazmrmDZQsKw5rb">
+    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-3" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-1" parent="xJNjfqte8jDH7_Ny2uir-3" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-2" parent="xJNjfqte8jDH7_Ny2uir-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Начало&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-8" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-6" parent="xJNjfqte8jDH7_Ny2uir-8" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-7" parent="xJNjfqte8jDH7_Ny2uir-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ввод a, b&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="10" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-12" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-4" parent="xJNjfqte8jDH7_Ny2uir-12" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-5" parent="xJNjfqte8jDH7_Ny2uir-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;S ← a + b&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-13" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="140" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-9" parent="xJNjfqte8jDH7_Ny2uir-13" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="80" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-10" parent="xJNjfqte8jDH7_Ny2uir-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;a &amp;gt; b?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-18" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="130" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-14" parent="xJNjfqte8jDH7_Ny2uir-18" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-17" parent="xJNjfqte8jDH7_Ny2uir-18" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A" vertex="1">
+          <mxGeometry height="30" width="40" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-19" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="210" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-20" parent="xJNjfqte8jDH7_Ny2uir-19" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-21" parent="xJNjfqte8jDH7_Ny2uir-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A" vertex="1">
+          <mxGeometry height="30" width="40" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-22" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Начало или конец&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Назначение: показывает точку входа и выхода алгоритма&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Пример: Начало; Конец&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="230" x="280" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-24" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Действие (процесс)&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Назначение: вычисление, присваивание значения&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Пример:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;S ← a + b&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="230" x="280" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-26" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Ввод или вывод&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Назначение: получение исходных данных, выдача результата&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Пример:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ввод a, b; Вывод S&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="230" x="280" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-27" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Условие (решение)&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Назначение: проверка условия, два выхода &quot;Да&quot;/&quot;Нет&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Пример:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;a &amp;gt; b?&lt;/span&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="230" x="280" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-28" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Линия потока&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Назначение: показывает порядок перехода между блоками&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Пример: переход к следующему блоку&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="260" x="280" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="594.5" as="sourcePoint" />
+            <mxPoint x="240" y="594.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xJNjfqte8jDH7_Ny2uir-29" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Соединитель&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Назначение: связывает части схемы без длинных линий&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Пример: A ... A (пара одинаковых меток)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="290" x="280" y="650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
