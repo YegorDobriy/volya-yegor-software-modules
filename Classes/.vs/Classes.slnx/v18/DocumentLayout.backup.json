@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|c:\\users\\-none-\\documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u043F\u043C\u043F\u0430\u043B\u0430\u0434\u0438\u043D\\classes\\classes\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|solutionrelative:classes\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|c:\\users\\-none-\\documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u043F\u043C\u043F\u0430\u043B\u0430\u0434\u0438\u043D\\classes\\classes\\models\\ordertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|solutionrelative:classes\\models\\ordertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|c:\\users\\-none-\\documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u043F\u043C\u043F\u0430\u043B\u0430\u0434\u0438\u043D\\classes\\classes\\models\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|solutionrelative:classes\\models\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|c:\\users\\-none-\\documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u043F\u043C\u043F\u0430\u043B\u0430\u0434\u0438\u043D\\classes\\classes\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|solutionrelative:classes\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|c:\\users\\-none-\\documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u043F\u043C\u043F\u0430\u043B\u0430\u0434\u0438\u043D\\classes\\classes\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|solutionrelative:classes\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|c:\\users\\-none-\\documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u043F\u043C\u043F\u0430\u043B\u0430\u0434\u0438\u043D\\classes\\classes\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|solutionrelative:classes\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|c:\\users\\-none-\\documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u043F\u043C\u043F\u0430\u043B\u0430\u0434\u0438\u043D\\classes\\classes\\models\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|solutionrelative:classes\\models\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|c:\\users\\-none-\\documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u043F\u043C\u043F\u0430\u043B\u0430\u0434\u0438\u043D\\classes\\classes\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|solutionrelative:classes\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|c:\\users\\-none-\\documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u043F\u043C\u043F\u0430\u043B\u0430\u0434\u0438\u043D\\classes\\classes\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|solutionrelative:classes\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|c:\\users\\-none-\\documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0440\u043F\u043C\u043F\u0430\u043B\u0430\u0434\u0438\u043D\\classes\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFA0465-D5D8-49C9-884E-28F252A58630}|Classes\\Classes.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Classes\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Payment.cs",
+              "RelativeToolTip": "Classes\\Models\\Payment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:56:50.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderTable.cs",
+              "DocumentMoniker": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\OrderTable.cs",
+              "RelativeDocumentMoniker": "Classes\\Models\\OrderTable.cs",
+              "ToolTip": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\OrderTable.cs",
+              "RelativeToolTip": "Classes\\Models\\OrderTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:56:30.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderPosition.cs",
+              "DocumentMoniker": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\OrderPosition.cs",
+              "RelativeDocumentMoniker": "Classes\\Models\\OrderPosition.cs",
+              "ToolTip": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\OrderPosition.cs",
+              "RelativeToolTip": "Classes\\Models\\OrderPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:56:09.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Classes\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Order.cs",
+              "RelativeToolTip": "Classes\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:55:30.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "Classes\\Models\\Table.cs",
+              "ToolTip": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Table.cs",
+              "RelativeToolTip": "Classes\\Models\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:55:10.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Guest.cs",
+              "RelativeDocumentMoniker": "Classes\\Models\\Guest.cs",
+              "ToolTip": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Guest.cs",
+              "RelativeToolTip": "Classes\\Models\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:54:48.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Waiter.cs",
+              "DocumentMoniker": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Waiter.cs",
+              "RelativeDocumentMoniker": "Classes\\Models\\Waiter.cs",
+              "ToolTip": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Waiter.cs",
+              "RelativeToolTip": "Classes\\Models\\Waiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:54:27.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Classes\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Dish.cs",
+              "RelativeToolTip": "Classes\\Models\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:54:03.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Classes\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Models\\Category.cs",
+              "RelativeToolTip": "Classes\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:50:59.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\-none-\\Documents\\\u0448\u0430\u0440\u0430\u0433\u0430\\\u0420\u041F\u041C\u041F\u0430\u043B\u0430\u0434\u0438\u043D\\Classes\\Classes\\Program.cs",
+              "RelativeToolTip": "Classes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:47:36.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
