@@ -1,16 +1,20 @@
-﻿using System;
-
-namespace lab14_15
+﻿namespace lab14_15
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string input;
-            string answer;
+            Task1();
+            Task2();
+            Task3();
+            TaskA();
+            TaskB();
+        }
 
-
+        static void Task1()
+        {
             Console.WriteLine("Общее упражнение №1 (Проверка размера группы)");
+            string input;
             int size;
             bool valid;
             do
@@ -24,9 +28,10 @@ namespace lab14_15
             }
             while (!valid);
             Console.WriteLine($"Принято: {size}");
+        }
 
-
-
+        static void Task2()
+        {
             Console.WriteLine("Общее упражнение №2 (Подсчет цифр: 0, 7, 1000)");
             int[] testNumbers = { 0, 7, 1000 };
             foreach (int originalN in testNumbers)
@@ -41,10 +46,12 @@ namespace lab14_15
                 while (remaining > 0);
                 Console.WriteLine($"Число: {originalN}, Количество цифр: {count}");
             }
+        }
 
-
-
+        static void Task3()
+        {
             Console.WriteLine("Общее упражнение №3 (Диалог с приветствием)");
+            string answer;
             do
             {
                 Console.WriteLine("Приветствуем вас!");
@@ -53,10 +60,13 @@ namespace lab14_15
                 if (answer == null) { Console.WriteLine("Ввод завершён"); return; }
             }
             while (string.Equals(answer, "д", StringComparison.OrdinalIgnoreCase));
+        }
 
-
-
+        static void TaskA()
+        {
             Console.WriteLine("Вариант 5. Задание А (Сложение двух чисел от -1000 до 1000)");
+            string input;
+            string answer;
             do
             {
                 int a, b;
@@ -83,10 +93,13 @@ namespace lab14_15
                 if (answer == null) { Console.WriteLine("Ввод завершён"); return; }
             }
             while (string.Equals(answer, "д", StringComparison.OrdinalIgnoreCase));
+        }
 
-
-
+        static void TaskB()
+        {
             Console.WriteLine("Вариант 5. Задание Б (Расчет площади прямоугольника)");
+            string input;
+            string answer;
             do
             {
                 double width, height;
